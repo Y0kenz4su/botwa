@@ -3,16 +3,16 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ⚠️ *INFO BOT* ⚠️
 Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 
-Rec: Drawl Nag
+Rec: Yokenza
 Script: @Nurotomo
 Github: 
-https://github.com/Arya274/Arya-BOT3
+https://github.com/Y0kenz4su/botwa
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-Instagram: @arpunchs
+Instagram: @yokenza_
 ➥ YouTube:
-youtube.com/DrawlNag
+https://youtube.com/channel/UCHxj12XPzTlfFC9HuqqdYUA
 
 *Thanks To :*
 Nurotomo
@@ -21,9 +21,9 @@ ST4RZ
 Dan kawan yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Indosat: 0815-1586-0089
+╠➥ SmartFren: 0882-2144-9680
+╠➥ Dana: 0882-2144-9680
+╠➥ Ovo: 0882-2144-9680
 ║>Request? Wa.me/6281357302007
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
